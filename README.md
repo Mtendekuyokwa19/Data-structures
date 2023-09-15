@@ -1,2 +1,3 @@
-# Data-structures
-structures are program defined data types and this is an exercise on how to use them
+# Questions from notes
+
+This repo was created special for wrting my answers for the programming questions my lecturee gave me
